@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class TimeScript : MonoBehaviour {
 
     public Text timeText;
-    private float timeCount = 300f;
+    private float timeCount = 600f;
     private float minutes = 0;
     private float seconds = 0;
 
