@@ -22,5 +22,5 @@ Title Screen:
 ![alt text](https://github.com/agiang96/CYGO/blob/master/readmepics/Menu.JPG)
 
 Gameplay:
-https://github.com/agiang96/CYGO/blob/master/readmepics/CYGOGameplay.JPG
+![alt text](https://github.com/agiang96/CYGO/blob/master/readmepics/CYGOGameplay.JPG)
 
