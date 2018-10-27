@@ -11,5 +11,16 @@ To play the game:
 2. Open the CYGO.exe file under the MyBuilds folder
 3. Enjoy!
 
+How to play:
+Movement: WASD or Arrow Keys
 
+Objective:
+Unlock the door by figuring out the puzzle
+![alt text](https://github.com/agiang96/CYGO/blob/master/readmepics/CYGODoor.JPG)
+
+Title Screen: 
+![alt text](https://github.com/agiang96/CYGO/blob/master/readmepics/Menu.JPG)
+
+Gameplay:
+https://github.com/agiang96/CYGO/blob/master/readmepics/CYGOGameplay.JPG
 
